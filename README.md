@@ -51,6 +51,6 @@ I've focused the tests on the limits of the file size and input size.
 With pytest, I would have added more unit tests.
 
   Tests are:
-- test if 10mb input file can be processed
-- test if 10k lines in lookup file can be processed
-- test if both 10mb input and 10k lookup can be processed at the same time
+- test if 10mb input file can be processed (takes 0.0999 seconds)
+- test if 10k lines in lookup file can be processed (takes 0.0028 seconds)
+- test if both 10mb input and 10k lookup can be processed at the same time (takes 0.0850 seconds)
