@@ -1,0 +1,16 @@
+Count of matches for each tag
+Tag,Counts
+Untagged,55328
+sv_P2,6916
+sv_P1,13832
+email,20748
+
+
+Count of matches for each port/protocol combination
+Port,Protocol,Count
+443,tcp,6916
+23,tcp,6916
+25,tcp,6916
+110,tcp,6916
+993,tcp,6916
+143,tcp,6916
